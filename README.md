@@ -1,4 +1,4 @@
-wiki
-====
+Functor.io wiki
+===============
 
-functor.io wiki - http://functor.io
+[Link to Wiki](https://github.com/functorio/wiki/wiki)
